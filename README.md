@@ -7,6 +7,7 @@ Some insights from the exploratory analysis:
 2. The top reason why customers churn is because competitors made better offers than TeleBoiler did.
 3. ~45% of the customers churn from TeleBoiler due to competitor-related reasons.
 4. California has an extremely high churn rate (63.6%), and no other states have a churn rate greater than 36%. California also has the highest churn rate (80.7%) for customers with month-to-month contracts. TeleBoiler should further investigate the reason why so many customers in California decide to churn. 
+
 **Recommendation**: TeleBoiler needs to make more competitive offers than its competitors to stop losing customers. This can include investigating how offers from competitors are better than TeleBoiler, proposing a cheaper plan to at-risk customer groups before they churn, presenting retention offers to customers who switched to other providers, and finding ways to improve the attitudes of support persons.
 
 ![image](https://github.com/user-attachments/assets/2f242ebb-fd0f-405f-85ec-702fc54b5bbd)
