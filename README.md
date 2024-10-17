@@ -17,7 +17,8 @@ Some insights from looking into churners by age groups
 1. About 40% of older adults (65 or above) churned from TeleBoiler, which is ~14% higher than the churn rate for other age groups.
 2. The top reason why older adults churn is because competitors made better offers.
 3. Customers who are not in a group plan, in the age group 50, and with an account length of 12 months or less have a churn rate of 48.3%.
-Recommendation: TeleBoiler should seek to improve the quality of its devices because it’s the #2 reason why customers churn and #1 reason why customers on unlimited plans churn.
+
+**Recommendation**: TeleBoiler should seek to improve the quality of its devices because it’s the #2 reason why customers churn and #1 reason why customers on unlimited plans churn.
 
 ![image](https://github.com/user-attachments/assets/d7f891b0-c239-4d65-878a-abc1a6c646eb)
 ![image](https://github.com/user-attachments/assets/b51b84f7-1efa-4bb5-926e-662d7dde0265)
@@ -31,7 +32,8 @@ California has the highest churn rate (63.6%) among all states and yet the lowes
 1. The churn rate is significantly higher among customers who are not in any group plans.
 2. Customers who have monthly contracts are ~40% more likely to churn than those who have yearly contracts.
 3. Gender differences don't seem to matter in customer churn.
-Recommendation: TeleBoiler should incentivize customers to enroll in any of the group plans and/or sign yearly contracts, which can potentially deter customers from churning.
+
+**Recommendation**: TeleBoiler should incentivize customers to enroll in any of the group plans and/or sign yearly contracts, which can potentially deter customers from churning.
 
 ![image](https://github.com/user-attachments/assets/810b266b-f12c-431d-8aa1-c3df19a2209e)
 
